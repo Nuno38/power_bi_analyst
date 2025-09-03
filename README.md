@@ -8,8 +8,8 @@ Este projeto apresenta um conjunto de análises desenvolvidas no Power BI Deskto
 ---------------------------------------------------------------------------------------------------------------------------------------
 <br>
 1. Vendas por Produto
-   - Soma de `Sales` por produto.
-   - Média do `Sale Price` por produto.
+   - Soma de Sales por produto.
+   - Média do Sale Price por produto.
    - Evolução das vendas por produto e ano.
 
 2. Vendas por País
