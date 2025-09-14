@@ -34,3 +34,19 @@ O relatório foi construído com o intuito de **demonstrar a aplicação de rela
 - Comparar vendas entre produtos.
 - Analisar o desempenho por país e segmento.
 - Explorar tendências de lucro ao longo do tempo.
+--------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<h1>Módulo três</h1>
+
+1. Transformação dos dados
+   - realizado tratamento dos dados: realizado mesclação das informações firstname + lastename em todas as tabelas.
+   - verificão de relação de projetos, localizações, horas trabalhada, sexo do empregado, tipo de projeto.
+   - Tansformação de dados de número inteiros para horas trabalhadas.
+   - Transformação de dados nullos: departamento, localicação para 'Sem registro'.
+   - Retirada de dados Não factível, os quais não seriam apropriados para mensural no graficos tais como código do emprega, pois foi válidado para não ter necessidade de tratamento.
+   - registros null para datas não foi possível realizar subistituição de valores.
+   - verificação de dados inválidos para realizar mensuração.
+     
+<br>
+
+2.
