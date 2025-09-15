@@ -49,4 +49,10 @@ O relatório foi construído com o intuito de **demonstrar a aplicação de rela
      
 <br>
 
-2.
+2. Consulta extra com Queries
+   - Foi realizado consulta utilizando algumas queries
+   - Obs: Tive que realizar a criação de uma instância do SQL Server, pois o MySQL não estava deixando criar a instância dava erro então tive que reaprender a sixtas.
+
+<img src='https://github.com/Nuno38/power_bi_analyst/blob/main/Imagens_M%C3%B3dulo03/queries.png' > </img>
+
+   - Verificação de média salárial poe genero, horas trabalhadas por projetos, quantidade de gerentes, média de trabalhadores, média dependetes. 
