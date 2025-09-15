@@ -57,4 +57,7 @@ O relatório foi construído com o intuito de **demonstrar a aplicação de rela
 <img src ='https://github.com/Nuno38/power_bi_analyst/blob/main/Imagens_M%C3%B3dulo03/Screenshot_15.png'></img>
 <img src ='https://github.com/Nuno38/power_bi_analyst/blob/main/Imagens_M%C3%B3dulo03/Screenshot_16.png'></img> 
 
-   - Verificação de média salárial poe genero, horas trabalhadas por projetos, quantidade de gerentes, média de trabalhadores, média dependetes. 
+   - Verificação de média salárial poe genero, horas trabalhadas por projetos, quantidade de gerentes, média de trabalhadores, média dependetes.
+     <img src='https://github.com/Nuno38/power_bi_analyst/blob/main/Imagens_M%C3%B3dulo03/Screenshot_13.png' > </img>
+     <img src ='https://github.com/Nuno38/power_bi_analyst/blob/main/Imagens_M%C3%B3dulo03/Screenshot_14.png'></img>
+   
